@@ -6,15 +6,15 @@ Welcome to the Technohack Internship Analytics repository! This project encapsul
 
 ## Key Areas
 
-### Summary Statistics: 
+#### Summary Statistics: 
 
 Explore statistical summaries derived from the given datasets to gain a comprehensive understanding of the data.
 
-### Data Cleaning: 
+#### Data Cleaning: 
 
 Witness effective data cleaning processes implemented to ensure data integrity and accuracy in subsequent analyses.
 
-### Data Visualization: 
+#### Data Visualization: 
 
 Visualizations are crafted to present key insights and patterns within the datasets, facilitating better data comprehension.
 
